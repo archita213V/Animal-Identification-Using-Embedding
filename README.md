@@ -36,6 +36,3 @@ This project identifies animals from images using Computer Vision and Machine Le
 - Real-time webcam detection
 - Web application deployment
 
-## Author
-
-Archita Verma

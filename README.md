@@ -30,10 +30,6 @@ This project identifies animals from images using Computer Vision and Machine Le
 4. Similarity Search using FAISS
 5. Animal Prediction
 
-## 📸 Sample Results
-
-(Add screenshots here)
-
 ## Future Improvements
 
 - Support for more animal classes

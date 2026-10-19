@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 🐄 Animal Identification & Livestock Intelligence
